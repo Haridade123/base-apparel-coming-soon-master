@@ -1,0 +1,32 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.texto{
+    width: 50%;
+    height: 90vh;
+    position: relative;
+  bottom: 55vh;
+    left: 25vw;
+}
+p{
+    color: rgb(0, 0, 0);
+}
+input{
+    border-color: black;
+    height: 5vh;
+    width: 20vw;
+    border-radius: 20px;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: rgba(17, 0, 255, 0.363);
+    font-weight: 300;
+}
+#hero{
+    margin-left: 50%;
+    width: 15vw;
+}
